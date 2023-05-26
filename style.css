@@ -1,0 +1,49 @@
+.blue {
+    border: 2px solid blue;
+}
+
+.green {
+    border: 2px solid green;
+}
+
+.orange {
+    border: 2px solid orange;
+}
+
+.red {
+    border: 2px solid red;
+}
+
+.dark {
+    border: 2px solid black;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.temp {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    padding: 3px;
+    margin: 1px;
+    width: 300px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.state{
+    text-align: center;
+    min-width: 350px;
+    padding: 3px;
+}
